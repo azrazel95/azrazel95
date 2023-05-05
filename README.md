@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @azrazel95
-- 👀 I’m interested in learning various languages and how pretty much anything works from tech to the universe
-- 🌱 I’m currently learning html, css and javascript
-- 💞️ I’m looking to collaborate on TBD
-- 📫 How to reach me send me an email at beni.sprenger@hotmail.com
+- 👋 Hi, I’m Ben!
+- 👀 I’m Currently most interested in learning more High level languages such as C++ and python in the near future, as well as expanding my horizon on machine learning and mobile applications.
+- 🌱 I’m currently consolidating my knowledge on the MERN stack by developing more applications
+- 📫 Send me an email at beni.sprenger@hotmail.com, Let's talk!
 
 <!---
 azrazel95/azrazel95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
